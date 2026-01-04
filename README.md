@@ -14,7 +14,6 @@
 
 ```
 $ git clone https://github.com/jonathankinggold/food-manage-MEAN
-$ cd CanteenManagement
 
 $ cd backend
 $ npm install
@@ -26,7 +25,6 @@ $ npm run dev
 
 ```
 $ git clone https://github.com/jonathankinggold/food-manage-MEAN
-$ cd CanteenManagement
 
 $ cd frontend
 $ cd canteen
